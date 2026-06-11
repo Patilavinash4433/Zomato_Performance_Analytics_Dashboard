@@ -7,8 +7,11 @@ The dashboard provides comprehensive insights into Zomato's business performance
 <img width="641" height="362" alt="Screenshot 2026-06-05 195917" src="https://github.com/user-attachments/assets/a19dbc0a-6131-496d-9f54-90c6a6e4b6a2" /><img width="644" height="361" alt="Screenshot 2026-06-05 195926" src="https://github.com/user-attachments/assets/96b56d15-d4c9-42f8-878c-6a3e8cdf8857" />
 <img width="643" height="362" alt="Screenshot 2026-06-05 195909" src="https://github.com/user-attachments/assets/80d1b2e2-06c7-4f88-8079-8b9ed93c55cf" />
 
-## Power bi File cannot Uplode becuse for a Size so u can Downlode On drive : 
-  Drive: https://drive.google.com/drive/folders/1xfXHggSye6GnyJ0TeVJiF4xMAbULrG_c?usp=sharing
+Note: The Power BI (.pbix) file is not included in this repository due to GitHub file size limitations.
+
+You can download the complete Power BI dashboard from Google Drive using the link provided below.
+
+## Google Drive Link: https://drive.google.com/drive/folders/1xfXHggSye6GnyJ0TeVJiF4xMAbULrG_c?usp=sharing
 
 ## Project Objectives
 
